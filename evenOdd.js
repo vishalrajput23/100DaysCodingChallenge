@@ -1,4 +1,4 @@
-x = 10;
+let x = 10;
 
 function evenOdd(){
   if (x % 2 == 0)
